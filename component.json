@@ -1,0 +1,15 @@
+{
+    "name": "dragonfly"
+  , "repo": "qualiancy/dragonfly"
+  , "version": "0.0.0"
+  , "description": "Tiny error manager for big applications."
+  , "license": "MIT"
+  , "keywords": [
+    ]
+  , "main": "lib/dragonfly.js"
+  , "scripts": [
+        "lib/dragonfly.js"
+    ]
+  , "dependencies": {}
+  , "development": {}
+}
