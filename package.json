@@ -1,6 +1,6 @@
 {
     "name": "dragonfly"
-  , "version": "0.0.0"
+  , "version": "1.0.0"
   , "description": "Tiny error manager for big applications."
   , "author": "Jake Luer <jake@qualiancy.com> (http://qualiancy.com)"
   , "license": "MIT"

@@ -1,7 +1,7 @@
 {
     "name": "dragonfly"
   , "repo": "qualiancy/dragonfly"
-  , "version": "0.0.0"
+  , "version": "1.0.0"
   , "description": "Tiny error manager for big applications."
   , "license": "MIT"
   , "keywords": [
