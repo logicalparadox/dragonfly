@@ -8,8 +8,15 @@
     ]
   , "main": "lib/dragonfly.js"
   , "scripts": [
-        "lib/dragonfly.js"
+        "lib/definition.js"
+      , "lib/dragonfly.js"
     ]
-  , "dependencies": {}
+  , "dependencies": {
+        "qualiancy/facet": "0.4.0"
+      , "qualiancy/sherlock": "*"
+      , "qualiancy/tea-error": "0.1.0"
+      , "qualiancy/tea-extend": "0.2.0"
+      , "qualiancy/tea-properties": "0.1.0"
+    }
   , "development": {}
 }
