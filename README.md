@@ -1,4 +1,4 @@
-# dragonfly [![Build Status](https://travis-ci.org/qualiancy/dragonfly.png?branch=master)](https://travis-ci.org/qualiancy/dragonfly)
+# dragonfly [![Build Status](https://travis-ci.org/logicalparadox/dragonfly.png?branch=master)](https://travis-ci.org/logicalparadox/dragonfly)
 
 > Tiny error manager for big applications.
 
