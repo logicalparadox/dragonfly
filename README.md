@@ -4,17 +4,9 @@
 
 ## Installation
 
-### Node.js
-
 `dragonfly` is available on [npm](http://npmjs.org).
 
     $ npm install dragonfly
-
-### Component
-
-`dragonfly` is available as a [component](https://github.com/component/component).
-
-    $ component install qualiancy/dragonfly
 
 ## Usage
 

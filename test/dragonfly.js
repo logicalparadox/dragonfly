@@ -1,3 +1,7 @@
+var chai = require('chai')
+var should = chai.should()
+var dragonfly = require('..')
+
 describe('dragonfly(name)', function () {
   it('should allow creation with a name', function () {
     var repo;
