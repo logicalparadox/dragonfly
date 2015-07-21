@@ -1,6 +1,6 @@
 {
   "name": "dragonfly",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Tiny error manager for big applications.",
   "author": "Jake Luer <jake@alogicalparadox.com> (http://alogicalparadox.com)",
   "license": "MIT",
