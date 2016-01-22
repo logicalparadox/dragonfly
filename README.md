@@ -23,14 +23,14 @@ var dragonfly = require('dragonfly')
 * **@param** _{String}_ message 
 * **@return** _{Definition}_  chainable object
 
-Define a new error patern that can be constructed
+Define a new error pattern that can be constructed
 from this dragonfly error repository. Returns a
 definition for chaining. The key does not occur
 in the constructed error object; it is simply for
 lookup purposes.
 
 ```js
-errs.create('not found')
+errs.define('not found')
   .message('Resource "#{path}" cannot be found.')
   .set('httpStatus', 404)
   .set('path', '/');
